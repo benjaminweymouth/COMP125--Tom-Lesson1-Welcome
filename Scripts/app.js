@@ -1,2 +1,7 @@
 /* Custom JS goes here */
-(function(){})();
+
+//IIFE - Immediately Invoked Function Expression
+// anonymous self excecuting function
+(function(){
+  
+})();
